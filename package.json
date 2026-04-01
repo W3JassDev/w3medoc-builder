@@ -1,0 +1,20 @@
+{
+  "name": "w3medoc-builder",
+  "version": "1.0.0",
+  "description": "Node.js builder for Warcraft 3 (1.26a) Map Editor offline documentation. Generates a standalone SPA from source files.",
+  "homepage": "https://github.com/W3JassDev/w3medoc-builder#readme",
+  "bugs": {
+    "url": "https://github.com/W3JassDev/w3medoc-builder/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W3JassDev/w3medoc-builder.git"
+  },
+  "license": "ISC",
+  "author": "w3.jass.dev@gmail.com",
+  "type": "module",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  }
+}
