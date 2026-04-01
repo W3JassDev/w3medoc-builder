@@ -1,0 +1,1 @@
+console.log("Hello, World! This is the build script for w3medoc-builder.");
